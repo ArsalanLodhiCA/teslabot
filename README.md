@@ -1,4 +1,4 @@
-# Serverless Application Deployment for Sentiment Analysis Function
+# Serverless App for Sentiment Analysis Function
 
 ![Deployment in-progress](images/samdeployment-1.png)
 
