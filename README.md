@@ -1,4 +1,4 @@
-# Serverless App for Sentiment Analysis Function
+# Serverless Deployment for Sentiment Analysis Function
 
 ## Deployment in-progress
 
